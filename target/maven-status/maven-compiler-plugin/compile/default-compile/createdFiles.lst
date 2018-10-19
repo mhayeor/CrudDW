@@ -1,0 +1,10 @@
+services\StudentService.class
+resources\PingResource.class
+domain\Student.class
+resources\StudentDWHealthCheckResource.class
+mapper\StudentMapper.class
+StudentDWConfiguration.class
+resources\StudentResource.class
+dao\StudentDao.class
+domain\PingRequest.class
+StudentDW.class
